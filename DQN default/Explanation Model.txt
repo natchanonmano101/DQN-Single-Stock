@@ -1,0 +1,5 @@
+Deep Reinforcement learning for Trading Single Stock 
+- Double Deep Q Algorithm 
+- strategy Can buy,sell 100-500 Position
+- Signal 3 Indicator
+- Reward diff Portfolio Value
